@@ -1,3 +1,5 @@
+<p align=right><font size=small>Free Software from kapcom01</font></p>
+
 ### Greek Resources for HeidelTime (2020) `RegEx`
 
 Το HeidelTime είναι ένας Temporal Tagger που ανιχνεύει και κανονικοποιεί χρονικές εκφράσεις σε κείμενο φυσικής γλώσσας. Εδώ παρουσιάζουμε ελληνικούς πόρους για το HeidelTime έτσι ώστε να μπορεί να "διαβάσει" ελληνικά κείμενα. Για περισσότερα [κάντε κλικ εδώ](heideltime-resources-greek).
